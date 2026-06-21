@@ -1,177 +1,108 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:667eea,30:764ba2,60:f093fb,100:4facfe&height=250&section=header&text=✦%20Vaishnavi%20Vahile%20✦&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Data%20Analyst%20·%20Storyteller%20·%20Problem%20Solver&descAlignY=65&descColor=ffffffcc&descSize=18&stroke=ffffff&strokeWidth=0.5"/>
-
-<!-- ANIMATED TYPING -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=24&pause=1000&color=764BA2&center=true&vCenter=true&width=700&lines=🎯+Transforming+Data+into+Decisions;📊+Power+BI+%7C+Python+%7C+SQL+%7C+Excel;🎓+MCA+Final+Year+%40+SPPU+Pune;✨+Passionate+about+Business+Intelligence;🚀+Seeking+Data+Analyst+Opportunities" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,40:1a3a6b,100:0a1628&height=220&section=header&text=Vaishnavi%20Vahile&fontSize=56&fontColor=D4AF37&animation=fadeIn&fontAlignY=42&desc=Data%20Analyst%20·%20Python%20·%20SQL%20·%20Power%20BI&descAlignY=62&descColor=a8c4e0&descSize=17"/>
 
 <br/>
 
-<!-- SOCIAL BADGES -->
-<a href="https://www.linkedin.com/in/vaishnavi-vahile-607065317">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect!-764BA2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=667eea"/>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=400&size=20&pause=1400&color=D4AF37&center=true&vCenter=true&width=680&lines=Transforming+raw+data+into+business+decisions.;MCA+Final+Semester+%40+Savitribai+Phule+Pune+University.;Skilled+in+Python+%7C+SQL+%7C+Power+BI+%7C+Excel.;Based+in+Pune%2C+Maharashtra%2C+India." />
 </a>
-&nbsp;
-<a href="mailto:vaishnavivahile123@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Say%20Hello!-f093fb?style=for-the-badge&logo=gmail&logoColor=white&labelColor=764BA2"/>
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=vaishnavivahile&style=for-the-badge&color=764ba2&label=✦+VISITORS"/>
 
 <br/><br/>
 
-<!-- ANIMATED SNAKE or DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaishnavi%20Vahile-1a3a6b?style=flat-square&logo=linkedin&logoColor=D4AF37)](https://www.linkedin.com/in/vaishnavi-vahile-607065317)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-vaishnavivahile123%40gmail.com-0a1628?style=flat-square&logo=gmail&logoColor=D4AF37)](mailto:vaishnavivahile123@gmail.com)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=vaishnavivahile&style=flat-square&color=1a3a6b&label=Profile+Views)](https://github.com/vaishnavivahile)
 
 </div>
 
-## 🌸 &nbsp; About Me
+<br/>
 
-<img align="right" width="38%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd6bHVmdGZxbmlycmJ3eXdpOGZkNGR4d3lkcXNvcWlzbXMzZXN2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+---
 
-&nbsp;&nbsp;&nbsp; 🎓 &nbsp; MCA Final Semester @ **Savitribai Phule Pune University**
+## &nbsp; About Me
 
-&nbsp;&nbsp;&nbsp; 📊 &nbsp; Passionate about **Data Analytics & Business Intelligence**
+<img align="right" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavivahile&layout=donut&theme=transparent&hide_border=true&title_color=D4AF37&text_color=a8c4e0&bg_color=00000000" />
 
-&nbsp;&nbsp;&nbsp; 🐍 &nbsp; Love crafting solutions with **Python, SQL & Power BI**
+&nbsp;&nbsp; 🎓 &nbsp; MCA Final Semester at **Savitribai Phule Pune University**
 
-&nbsp;&nbsp;&nbsp; 📈 &nbsp; Obsessed with **Data Visualization & Dashboard Design**
+&nbsp;&nbsp; 📊 &nbsp; Passionate about **Data Analytics & Business Intelligence**
 
-&nbsp;&nbsp;&nbsp; 🤖 &nbsp; Currently exploring **Machine Learning & Advanced Analytics**
+&nbsp;&nbsp; 🔍 &nbsp; Skilled in transforming complex datasets into **clear visual stories**
 
-&nbsp;&nbsp;&nbsp; 📍 &nbsp; Based in **Pune, Maharashtra, India**
+&nbsp;&nbsp; 📈 &nbsp; Experienced in **Dashboard Design & Reporting**
 
-&nbsp;&nbsp;&nbsp; 💡 &nbsp; Fun Fact: *Every dataset has a hidden story — I find it!*
+&nbsp;&nbsp; 📍 &nbsp; Pune, Maharashtra, India
 
-&nbsp;&nbsp;&nbsp; 📩 &nbsp; Reach me: **vaishnavivahile123@gmail.com**
+&nbsp;&nbsp; 📩 &nbsp; [vaishnavivahile123@gmail.com](mailto:vaishnavivahile123@gmail.com)
+
+&nbsp;&nbsp; 🔗 &nbsp; [linkedin.com/in/vaishnavi-vahile-607065317](https://www.linkedin.com/in/vaishnavi-vahile-607065317)
 
 <br clear="right"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
 ---
 
-## ⚡ &nbsp; Tech Stack
+## &nbsp; Technical Skills
 
 <div align="center">
 
-### 🐍 Languages & Analysis
-<img src="https://skillicons.dev/icons?i=python,mysql,postgresql&theme=dark" />
-
-### 📊 BI, Visualization & Data Tools
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
-
-### 🐼 Python Libraries
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
-### 🛠️ Dev Environment
-<img src="https://skillicons.dev/icons?i=vscode,jupyter,git,github,googlecolab&theme=dark" />
+| &nbsp; | Skill Area | Tools & Technologies |
+|:---:|:---|:---|
+| 🐍 | **Data Analysis** | Python · Pandas · NumPy |
+| 📊 | **Visualization** | Power BI · Matplotlib · Seaborn · Excel |
+| 🗄️ | **Databases** | MySQL · PostgreSQL · SQL Server |
+| 📑 | **Reporting** | Excel Dashboards · Power BI Reports · Google Sheets |
+| 🛠️ | **Environment** | Jupyter Notebook · VS Code · Google Colab · Git |
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
 ---
 
-## 📊 &nbsp; GitHub Stats
+## &nbsp; GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vaishnavivahile&show_icons=true&theme=tokyonight&hide_border=true&title_color=f093fb&icon_color=764ba2&text_color=c9d1d9&bg_color=0d1117&border_radius=12&include_all_commits=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavivahile&theme=tokyonight&hide_border=true&stroke=764ba2&ring=f093fb&fire=667eea&currStreakLabel=f093fb&background=0d1117&border_radius=12"/>
-
-<br/>
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavivahile&layout=donut-vertical&theme=tokyonight&hide_border=true&title_color=f093fb&text_color=c9d1d9&bg_color=0d1117&border_radius=12"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vaishnavivahile&show_icons=true&theme=transparent&hide_border=false&title_color=D4AF37&icon_color=D4AF37&text_color=a8c4e0&bg_color=0a1628&border_color=1a3a6b&border_radius=10&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavivahile&theme=transparent&hide_border=false&stroke=1a3a6b&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&background=0a1628&border=1a3a6b&border_radius=10&sideLabels=a8c4e0&dates=a8c4e0&sideNums=ffffff"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
 ---
 
-## 🏆 &nbsp; GitHub Trophies
+## &nbsp; Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vaishnavivahile&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vaishnavivahile&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
 ---
 
-## 📈 &nbsp; Skill Proficiency
+## &nbsp; Currently
 
 <div align="center">
 
-| Skill | Proficiency |
-|:------|:------------|
-| 🐍 Python | ![90%](https://progress-bar.xyz/82?title=Python&color=764ba2&width=300) |
-| 🗄️ SQL | ![78%](https://progress-bar.xyz/78?title=SQL&color=667eea&width=300) |
-| 📊 Power BI | ![72%](https://progress-bar.xyz/72?title=Power+BI&color=f093fb&width=300) |
-| 📑 Excel | ![85%](https://progress-bar.xyz/85?title=Excel&color=217346&width=300) |
-| 🤖 Machine Learning | ![45%](https://progress-bar.xyz/45?title=ML+%28Learning%29&color=4facfe&width=300) |
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
----
-
-## 🌟 &nbsp; What I'm Up To
-
-<div align="center">
-
-| 🔭 Working On | Data Analysis projects with Python & Power BI |
+| | |
 |:---|:---|
-| 🌱 Learning | Machine Learning & Advanced SQL |
-| 💬 Ask Me About | Python · SQL · Power BI · Data Visualization |
-| 👯 Open To | Internships & Data Analyst Collaborations |
-| ⚡ Fun Fact | I can find patterns where others see chaos! |
+| 🔭 **Working on** | Data Analysis & Visualization projects |
+| 💬 **Ask me about** | Python · SQL · Power BI · Excel |
+| 👯 **Open to** | Data Analyst Internships & Full-time Roles |
+| ⚡ **Belief** | Every dataset has a story — I help it speak |
 
 </div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ---
 
-## 🤝 &nbsp; Connect With Me
-
 <div align="center">
-
-<a href="https://www.linkedin.com/in/vaishnavi-vahile-607065317">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da797a47ea67.png"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:vaishnavivahile123@gmail.com">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845a3047a.png"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/vaishnavivahile">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
-</a>
-
-<br/><br/>
-
-### 💜 &nbsp; *"Data is not just numbers — it's the language of business."* &nbsp; 💜
 
 <br/>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
+*"Without data, you're just another person with an opinion."*
+&nbsp;—&nbsp; W. Edwards Deming
 
-**Let's collaborate and build something amazing together! 🚀**
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,40:1a3a6b,100:0a1628&height=130&section=footer&animation=fadeIn"/>
 
 </div>
-
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:4facfe,30:764ba2,60:f093fb,100:667eea&height=120&section=footer&animation=fadeIn&reversal=true"/>
