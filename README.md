@@ -1,17 +1,41 @@
-## Hi there 👋
-Author - Vaishnavi Vahile
+# Hi, I'm Vaishnavi Vahile 👋
 
-<!--
-**vaishnavivahile/vaishnavivahile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | Python | SQL | Power BI
 
-Here are some ideas to get you started:
+📍 Pune, Maharashtra
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Passionate about Data Analytics and Business Intelligence
+
+💡 Interested in Data Visualization, Dashboard Development and Machine Learning
+
+---
+
+## Skills
+
+- Python
+- SQL
+- Power BI
+- Excel
+- Pandas
+- NumPy
+- MySQL
+- Git & GitHub
+
+---
+
+## Projects
+
+### AnalyticsDesk
+Data Analytics Dashboard Builder using Python, Flask, React and MySQL.
+
+### Starbucks Power BI Dashboard
+Interactive dashboard for sales analysis.
+
+### E-Commerce Customer Churn Prediction
+Machine learning project for customer retention analysis.
+
+---
+
+## Connect With Me
+
+LinkedIn: YOUR_LINKEDIN_URL
