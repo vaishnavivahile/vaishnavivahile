@@ -5,16 +5,20 @@
 <br/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=400&size=20&pause=1400&color=D4AF37&center=true&vCenter=true&width=680&lines=Transforming+raw+data+into+business+decisions.;MCA+Final+Semester+%40+Savitribai+Phule+Pune+University.;Skilled+in+Python+%7C+SQL+%7C+Power+BI+%7C+Excel.;Based+in+Pune%2C+Maharashtra%2C+India." />
+  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=400&size=20&pause=1400&color=D4AF37&center=true&vCenter=true&width=680&lines=Transforming+raw+data+into+business+decisions.;Skilled+in+Python+%7C+SQL+%7C+Power+BI+%7C+Excel.;Passionate+about+Data+Analytics+%26+Business+Intelligence.;Based+in+Pune%2C+Maharashtra%2C+India." />
 </a>
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaishnavi%20Vahile-1a3a6b?style=flat-square&logo=linkedin&logoColor=D4AF37)](https://www.linkedin.com/in/vaishnavi-vahile-607065317)
+<a href="https://www.linkedin.com/in/vaishnavi-vahile-607065317">
+  <img src="https://img.shields.io/badge/_%20Vaishnavi%20Vahile-0a1e3d?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=0a1628"/>
+</a>
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-vaishnavivahile123%40gmail.com-0a1628?style=flat-square&logo=gmail&logoColor=D4AF37)](mailto:vaishnavivahile123@gmail.com)
+<a href="mailto:vaishnavivahile123@gmail.com">
+  <img src="https://img.shields.io/badge/_%20vaishnavivahile123%40gmail.com-0a1628?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=0a1e3d"/>
+</a>
 &nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=vaishnavivahile&style=flat-square&color=1a3a6b&label=Profile+Views)](https://github.com/vaishnavivahile)
+<img src="https://komarev.com/ghpvc/?username=vaishnavivahile&style=for-the-badge&color=0a1628&label=Profile+Views&labelColor=1a3a6b"/>
 
 </div>
 
@@ -24,20 +28,16 @@
 
 ## &nbsp; About Me
 
-<img align="right" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavivahile&layout=donut&theme=transparent&hide_border=true&title_color=D4AF37&text_color=a8c4e0&bg_color=00000000" />
+<img align="right" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavivahile&layout=donut&theme=transparent&hide_border=true&title_color=D4AF37&text_color=a8c4e0&bg_color=00000000" />
 
-&nbsp;&nbsp; 🎓 &nbsp; MCA Final Semester at **Savitribai Phule Pune University**
+> *A data professional who believes numbers tell the most honest stories.*
 
-&nbsp;&nbsp; 📊 &nbsp; Passionate about **Data Analytics & Business Intelligence**
+I work at the intersection of **data, design, and decision-making** — building dashboards and analyses that help businesses understand what their data is really saying.
 
-&nbsp;&nbsp; 🔍 &nbsp; Skilled in transforming complex datasets into **clear visual stories**
-
-&nbsp;&nbsp; 📈 &nbsp; Experienced in **Dashboard Design & Reporting**
+With hands-on experience in **Python, SQL, Power BI and Excel**, I specialize in transforming raw, complex datasets into clear, actionable insights. My strength lies in not just finding patterns — but **communicating them visually** in a way that drives real decisions.
 
 &nbsp;&nbsp; 📍 &nbsp; Pune, Maharashtra, India
-
 &nbsp;&nbsp; 📩 &nbsp; [vaishnavivahile123@gmail.com](mailto:vaishnavivahile123@gmail.com)
-
 &nbsp;&nbsp; 🔗 &nbsp; [linkedin.com/in/vaishnavi-vahile-607065317](https://www.linkedin.com/in/vaishnavi-vahile-607065317)
 
 <br clear="right"/>
@@ -48,13 +48,23 @@
 
 <div align="center">
 
-| &nbsp; | Skill Area | Tools & Technologies |
-|:---:|:---|:---|
-| 🐍 | **Data Analysis** | Python · Pandas · NumPy |
-| 📊 | **Visualization** | Power BI · Matplotlib · Seaborn · Excel |
-| 🗄️ | **Databases** | MySQL · PostgreSQL · SQL Server |
-| 📑 | **Reporting** | Excel Dashboards · Power BI Reports · Google Sheets |
-| 🛠️ | **Environment** | Jupyter Notebook · VS Code · Google Colab · Git |
+![Python](https://img.shields.io/badge/Python-0a1628?style=for-the-badge&logo=python&logoColor=D4AF37)
+![Pandas](https://img.shields.io/badge/Pandas-0a1628?style=for-the-badge&logo=pandas&logoColor=D4AF37)
+![NumPy](https://img.shields.io/badge/NumPy-0a1628?style=for-the-badge&logo=numpy&logoColor=D4AF37)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0a1628?style=for-the-badge&logo=python&logoColor=D4AF37)
+![Seaborn](https://img.shields.io/badge/Seaborn-0a1628?style=for-the-badge&logo=python&logoColor=D4AF37)
+
+![Power BI](https://img.shields.io/badge/Power%20BI-0a1628?style=for-the-badge&logo=powerbi&logoColor=D4AF37)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-0a1628?style=for-the-badge&logo=microsoft-excel&logoColor=D4AF37)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-0a1628?style=for-the-badge&logo=google-sheets&logoColor=D4AF37)
+
+![MySQL](https://img.shields.io/badge/MySQL-0a1628?style=for-the-badge&logo=mysql&logoColor=D4AF37)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a1628?style=for-the-badge&logo=postgresql&logoColor=D4AF37)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-0a1628?style=for-the-badge&logo=microsoft-sql-server&logoColor=D4AF37)
+
+![Jupyter](https://img.shields.io/badge/Jupyter-0a1628?style=for-the-badge&logo=jupyter&logoColor=D4AF37)
+![VS Code](https://img.shields.io/badge/VS%20Code-0a1628?style=for-the-badge&logo=visual-studio-code&logoColor=D4AF37)
+![Git](https://img.shields.io/badge/Git-0a1628?style=for-the-badge&logo=git&logoColor=D4AF37)
 
 </div>
 
@@ -87,7 +97,7 @@
 |:---|:---|
 | 🔭 **Working on** | Data Analysis & Visualization projects |
 | 💬 **Ask me about** | Python · SQL · Power BI · Excel |
-| 👯 **Open to** | Data Analyst Internships & Full-time Roles |
+| 👯 **Open to** | Data Analyst Roles & Collaborations |
 | ⚡ **Belief** | Every dataset has a story — I help it speak |
 
 </div>
